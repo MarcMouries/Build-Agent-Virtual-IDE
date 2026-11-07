@@ -10,7 +10,7 @@
     "dist": "env -u ELECTRON_RUN_AS_NODE electron-builder --mac"
   },
   "devDependencies": {
-    "electron": "^42.4.1",
+    "electron": "^42.7.1",
     "electron-builder": "^24.13.3"
   },
   "build": {
